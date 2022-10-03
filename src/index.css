@@ -13,3 +13,18 @@ body {
   background: linear-gradient(180deg, rgba(50, 205, 50, 1) 0%, rgb(23, 42, 22) 100%);
   color: #fff;
 }
+
+button {
+  background-color: #32CD32;
+  color: #fff;
+  padding: 15px 30px;
+  border: none;
+  font-size: 18px;
+  transition: .5s;
+  cursor: pointer;
+}
+
+button:hover {
+  color: #000;
+  background-color: #dce43b;
+}
