@@ -1,0 +1,17 @@
+.gameOver {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.gameOver h1 {
+  font-size: 3.5em;
+}
+
+.gameOver h2 {
+  margin-bottom: 1.2em;
+}
+
+.gameOver span {
+  color: #ecfa00;
+}
