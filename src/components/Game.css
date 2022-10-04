@@ -1,0 +1,9 @@
+.game {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.game h1 {
+  margin-bottom: 2em;
+}
